@@ -4,7 +4,7 @@
 
 <p align="center">
   💻 Estudiante de <b>Ingeniería Civil en Informática</b> en la <b>Universidad del Bío-Bío</b> 🇨🇱 <br>
-  📍 Desde Concepción, Chile <br>
+  📍 Concepción, Chile <br>
   🚀 Aprendiendo Python, JavaScript, SQL y desarrollo de software
 </p>
 
