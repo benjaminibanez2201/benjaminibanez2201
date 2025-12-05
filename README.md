@@ -35,6 +35,13 @@
 </p>
 
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/benjaminibanez2201?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/benjaminibanez2201?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/benjaminibanez2201/ProyectoPrueba" alt="Último commit" />
+  <img src="https://img.shields.io/github/languages/top/benjaminibanez2201/ProyectoPrueba" alt="Lenguaje principal" />
+</p>
+
 
 ---
 
