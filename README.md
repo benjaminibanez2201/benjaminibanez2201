@@ -32,6 +32,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benjaminibanez2201&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminibanez2201&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="180em"/>
+  <img src="https://gh-stats-gen.vercel.app/api?username=benjaminibanez2201&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
