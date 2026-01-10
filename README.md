@@ -43,6 +43,20 @@
 </p>
 
 
+<!-- ✅ PRUEBA: mismas stats pero con cache más alto (menos caídas por rate limit) -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=benjaminibanez2201&show_icons=true&theme=tokyonight&cache_seconds=21600"
+    alt="Stats (cache 6h)"
+    height="180em"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminibanez2201&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=21600"
+    alt="Top langs (cache 6h)"
+    height="180em"
+  />
+</p>
+
 ---
 
 ### 🧩 Proyectos en los que estoy trabajando
