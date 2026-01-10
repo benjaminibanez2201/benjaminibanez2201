@@ -57,6 +57,14 @@
   />
 </p>
 
+<!-- ✅ PRUEBA: alternativa (streak stats) -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=benjaminibanez2201&theme=tokyonight"
+    alt="GitHub Streak"
+    height="180em"
+  />
+</p>
 ---
 
 ### 🧩 Proyectos en los que estoy trabajando
