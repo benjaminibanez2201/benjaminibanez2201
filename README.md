@@ -50,7 +50,7 @@
 
 ---
 
-### 🧩 Proyectos en los que estoy trabajando
+### 🧩 Proyectos y aprendizaje
 
 - 📚 **Sistema de gestión de prácticas profesionales** → Plataforma web con **Node.js**, **Express**, **TypeORM** y **PostgreSQL**.   
 - 💡 Otros proyectos pequeños para practicar CRUD, API REST y conexión a bases de datos.  
