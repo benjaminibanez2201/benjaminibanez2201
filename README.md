@@ -35,12 +35,6 @@
 </p>
 
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=benjaminibanez2201&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="180em"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminibanez2201&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="180em"/> 
-</p>
-
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/benjaminibanez2201?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/benjaminibanez2201?style=social" alt="Stars" />
