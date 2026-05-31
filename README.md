@@ -50,8 +50,5 @@
 - 💡 Otros proyectos pequeños para practicar CRUD, API REST y conexión a bases de datos.  
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="350">
-</p>
 
 
