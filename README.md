@@ -28,7 +28,9 @@
 ### Proyectos destacados
 
 - **Sistema de gestión de prácticas** — Plataforma web full-stack con Node.js, Express, TypeORM y PostgreSQL.
-- **Chatbot académico (Tesis)** — Arquitectura híbrida FAQ + RAG con OpenAI API orientada a estudiantes universitarios.
+- **Sistema conversacional académico (Tesis)** — Arquitectura híbrida FAQ + RAG con OpenAI API orientada a estudiantes universitarios (En proceso).
+- **Máquina vulnerable F1 (Hacking Ético)** — Entorno Docker con 6 categorías de vulnerabilidades encadenadas (RCE, criptografía, esteganografía, forense, ingeniería inversa) hasta escalada de privilegios a root.
+- **ArriendU** — Plataforma de arriendo de vivienda universitaria; liderazgo de equipo de 6 personas, backend Node.js + Express + TypeORM + PostgreSQL, frontend React + Vite.
 - **App de transcripción de voz** — Backend Node.js + Whisper con GPU, diarización de hablantes y frontend retrowave.
 
 ---
